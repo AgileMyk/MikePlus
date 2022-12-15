@@ -1,0 +1,23 @@
+{
+  "name": "mikeplus",
+  "version": "1.0.0",
+  "description": "website for m plus",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgileMyk/MikePlus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgileMyk/MikePlus/issues"
+  },
+  "homepage": "https://github.com/AgileMyk/MikePlus#readme",
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
+}
